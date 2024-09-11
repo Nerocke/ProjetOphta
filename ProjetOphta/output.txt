@@ -1,0 +1,69 @@
+Acte RETINO facturé pour IPP 113812 le 07/09/2018
+Montant attendu: 20.0
+Acte FO facturé pour IPP 113812 le 07/09/2018
+Montant attendu: 14.0
+Total pour IPP 113812 le 07/09/2018: 34.0
+
+Acte OCT facturé pour IPP 113815 le 07/09/2018
+Montant attendu: 50.0
+Acte RETINO facturé pour IPP 113815 le 07/09/2018
+Montant attendu: 10.0
+Total pour IPP 113815 le 07/09/2018: 60.0
+
+Consultation facturée pour IPP 113815 le 06/03/2020
+Montant attendu: 30.0
+
+Acte RETINO facturé pour IPP 113818 le 07/09/2018
+Montant attendu: 20.0
+Acte FO facturé pour IPP 113818 le 07/09/2018
+Montant attendu: 14.0
+Total pour IPP 113818 le 07/09/2018: 34.0
+
+Acte OCT facturé pour IPP 113816 le 07/09/2018
+Montant attendu: 50.0
+Acte RETINO facturé pour IPP 113816 le 07/09/2018
+Montant attendu: 10.0
+Total pour IPP 113816 le 07/09/2018: 60.0
+
+Acte RETINO facturé pour IPP 113820 le 07/09/2018
+Montant attendu: 20.0
+Acte FO facturé pour IPP 113820 le 07/09/2018
+Montant attendu: 14.0
+Total pour IPP 113820 le 07/09/2018: 34.0
+
+Consultation facturée pour IPP 113820 le 20/09/2018
+Montant attendu: 30.0
+
+Consultation facturée pour IPP 113820 le 09/11/2018
+Montant attendu: 30.0
+
+Acte RETINO facturé pour IPP 113823 le 07/09/2018
+Montant attendu: 20.0
+Acte FO facturé pour IPP 113823 le 07/09/2018
+Montant attendu: 14.0
+Total pour IPP 113823 le 07/09/2018: 34.0
+
+Consultation facturée pour IPP 113823 le 12/09/2018
+Montant attendu: 30.0
+
+Consultation facturée pour IPP 113823 le 13/03/2019
+Montant attendu: 30.0
+
+Acte OCT facturé pour IPP 113824 le 07/09/2018
+Montant attendu: 50.0
+Acte RETINO facturé pour IPP 113824 le 07/09/2018
+Montant attendu: 10.0
+Total pour IPP 113824 le 07/09/2018: 60.0
+
+Acte RETINO facturé pour IPP 113822 le 07/09/2018
+Montant attendu: 20.0
+Acte FO facturé pour IPP 113822 le 07/09/2018
+Montant attendu: 14.0
+Total pour IPP 113822 le 07/09/2018: 34.0
+
+Acte OCT facturé pour IPP 113826 le 07/09/2018
+Montant attendu: 50.0
+Acte RETINO facturé pour IPP 113826 le 07/09/2018
+Montant attendu: 10.0
+Total pour IPP 113826 le 07/09/2018: 60.0
+
